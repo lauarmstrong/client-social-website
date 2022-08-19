@@ -1,0 +1,32 @@
+#event-date {
+    float: right;
+    margin-right: 150px;
+}
+#event-description {
+   word-break: normal;
+   width: 400px;
+   margin-right: 50px;
+   float: right;
+}
+
+#event-title {
+    color: #333333;
+    grid-column: 2 / span 2;
+    float: right;
+    margin-right: 120px;
+    font-size: 22px;
+    line-height: 1.5;
+    font-weight: 500;
+    text-transform: none;
+    letter-spacing: -0.6px;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+
+.event-box {
+    
+    width: 80%;
+    margin: auto;
+}
